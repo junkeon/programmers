@@ -33,7 +33,7 @@
 - 신호를 수신하는 탑이 없으면 0으로 표시합니다.
 
 
-## 044. 멀쩡한 사각
+## 044. 멀쩡한 사각형
 - https://programmers.co.kr/learn/courses/30/lessons/62048
 
 ### 문제 설명
